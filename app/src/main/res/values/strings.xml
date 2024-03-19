@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">ShopListProject</string>
+    <string name="add_shop_item_content_description">\n</string>
+    <string name="add_new_shop_item">Add new shop item</string>
 </resources>
